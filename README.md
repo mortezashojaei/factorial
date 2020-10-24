@@ -2,6 +2,6 @@
 
 2. run below commands in project directory :
 
-##gcc main.cpp -lstdc++ -o main.o
+`gcc main.cpp -lstdc++ -o main.o`
 
-##./main.o
+`./main.o`
